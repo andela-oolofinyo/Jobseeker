@@ -249,6 +249,7 @@ footer{
     padding: 1.35em 0;
     bottom: 0px;
     height: 1em;
+    position: relative;
 }
 
 footer a, footer a:link, footer a:visited {

@@ -206,8 +206,8 @@ footer {
     width: 100%;
     font-weight: 400;
     padding: 1em 0;
-    bottom: 0px;
-    position: fixed;
+    bottom: -180px;
+    position: relative;
 	}
 
 footer a, footer a:link, footer a:visited {
