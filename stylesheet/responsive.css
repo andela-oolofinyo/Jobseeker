@@ -1,9 +1,16 @@
-@media screen and (max-width: 480px){
+@media screen and (max-width: 680px) {
 
-	body{
-		font-size: 100%
+body{
+	font-size: 100%
 	}
 
+a, a:link, a:visited {
+	text-decoration: none;
+	}
+
+a:hover {
+	text-decoration: underline;
+	}
 /*-----------------------------------------------
 
 						HEADER
